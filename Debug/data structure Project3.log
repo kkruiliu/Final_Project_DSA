@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\lingy\source\repos\data structure Project3\data structure Project3\Source.cpp(89,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  data structure Project3.vcxproj -> C:\Users\lingy\source\repos\data structure Project3\Debug\data structure Project3.exe
